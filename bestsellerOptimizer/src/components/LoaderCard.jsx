@@ -1,4 +1,3 @@
-
 import DotLoader from 'react-spinners/DotLoader';
 
 const LoaderCard = () => {

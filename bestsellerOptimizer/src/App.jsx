@@ -75,7 +75,6 @@ const App = () => {
   
   }, []);
 
-
   let fetchMyAPI = async() => {
     let response = await axios.get("http://localhost:8080/api");
   };

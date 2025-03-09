@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {IoClose} from 'react-icons/io5';
 
-
 const BookGridObject = ({title, author, bookCover, wordcount, percentage, deleteBookFromCalculator, amazonLink}) => {
 
     let [cover, setCover] = useState('#');

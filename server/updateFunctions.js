@@ -2,7 +2,6 @@ const nytFunctions = require('./nytFunctions');
 const spotifyFunctions = require('./spotifyFunctions');
 const BookInfo = require('./BookInfo');
 
-
 let bestsellerListNames = [
     'Combined Print & E-Book Fiction',
     'Combined Print & E-Book Nonfiction',

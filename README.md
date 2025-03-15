@@ -15,7 +15,7 @@ Broadly the backend performs three tasks:
 
 ## Future Updates:
 
-Unfortunately, Spotify doesn't seem to have as many audiobooks as Audible, so I'll probably switch to using Audible's API. If Spotify does in fact have audiobooks which are unavailiable on Audible, then I would use both APIs.
+It doesn't seem like Spotify has as many audiobooks as Audible, so I'll probably switch over to using Audible's API for audiobook length. However, if Spotify does in fact have audiobooks which are unavailiable on Audible, then I would use both APIs.
 
 Give users the ability to be more precise in their planning. Users can currently download a CSV file with the list of books they plan on reading over the course of a month, but I'd like to upgrade this functionality so that they could edit a calendar and export a calendar file.
 
